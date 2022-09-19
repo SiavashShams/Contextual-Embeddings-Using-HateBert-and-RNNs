@@ -1,2 +1,3 @@
 # Contextual embeddings Using RNNs
- We aim to clasify tweets based on three categories 0: hate, 1: offensive, 2: neutral
+## Using HateBert and two RNNs as its last trainable layers to clasify context of the tweets in the dataset (0: hate tweets, 1: offensive tweets, 2: neutral tweets)
+## pre_main_data is the preprocessed dataset
